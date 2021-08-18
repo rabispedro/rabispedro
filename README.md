@@ -7,7 +7,7 @@
  
   ##
  
-- 🔭 I’m currently working at <a href="https://github.com/asciiej/">.
+- 🔭 I’m currently working at <a href="https://github.com/asciiej/">ASCII Empresa Junior</a>.
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with Java Backend Development.
 - 😄 Pronouns: He/Him.
