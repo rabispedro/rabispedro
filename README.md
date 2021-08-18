@@ -10,8 +10,6 @@
 - 🤔 I’m looking for help with Java Backend Development.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Every time I start a new project without finishing the old one I do one push-up.
-
-  ##
   
 #### Contacts:
 <div> 
