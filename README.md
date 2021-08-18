@@ -4,9 +4,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rabispedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabispedro&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
-  ##
- 
+
 - 🔭 I’m currently working at [ASCII Empresa Junior](https://github.com/asciiej/).
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with Java Backend Development.
