@@ -1,9 +1,8 @@
 ## Hey! I'm Pedro Rabis!
 
-- 🔭 I’m currently working at [ASCII Empresa Junior](https://www.asciiej.com.br) and [Arpia Tecnologia & Inovação](https://arpiatecnologia.com.br/).
+- 🔭 I’m currently working at [Arpia Tecnologia & Inovação](https://arpiatecnologia.com.br/).
 - 👯 I’m looking to collaborate on Open source projects.
-- 🤔 I’m looking for help with Java Backend Development.
-- 😄 Pronouns: He/Him.
+- 🤔 I’m looking for help with Java and C# Backend Development.
 - ⚡ Fun fact: Every time I start a new project without finishing the old one I do one push-up.
   
 #### Contacts:
