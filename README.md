@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently open to work.
 - 👯 I’m looking to collaborate on Open source projects.
-- 🤔 I’m looking for help with Java and C# Backend Development.
+- 🤔 I’m looking for help with TypeScript, Java and C# Backend Development.
 - ⚡ Fun fact: Every time I start a new project without finishing the old one I do one push-up.
+- 🧑‍💻️ [Checkout my portfolio](https://rabispedro.github.io/)
   
 #### Contacts:
 <div> 
